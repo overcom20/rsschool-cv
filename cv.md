@@ -29,3 +29,5 @@ Completed courses : Basics of HTML and CSS layout from netology.ru
 ## English language proficiency
 Elementary (A1+,A2)
 
+
+
